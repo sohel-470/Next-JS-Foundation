@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Circuistrix",
+            "slug": "violin-for-beginners",
+            "description": "Learn violin basics including posture, bowing techniques, and simple melodies.",
+            "price": 119.99,
+            "instructor": "Olivia Wilson",
+            "isFeatured": true,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Eureka",
+            "slug": "hip-hop-music-production",
+            "description": "Create professional hip-hop beats using modern production techniques and software.",
+            "price": 159.99,
+            "instructor": "Marcus Reed",
+            "isFeatured": true,
+            "image": "/courses/hiphop.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Algomaniac",
+            "slug": "advanced-guitar-techniques",
+            "description": "Master lead guitar, fingerstyle, and advanced chord progressions to elevate your playing.",
+            "price": 149.99,
+            "instructor": "Alex Turner",
+            "isFeatured": true,
+            "image": "/courses/advanced-guitar.jpg"
+        },
+        {
+            "id": 4,
+            "title": "SparkHack",
+            "slug": "classical-piano-mastery",
+            "description": "Learn classical piano techniques, sheet music reading, and famous compositions.",
+            "price": 179.99,
+            "instructor": "Emily Carter",
+            "isFeatured": true,
+            "image": "/courses/classical-piano.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Abol Tabol",
+            "slug": "music-theory-essentials",
+            "description": "Understand scales, chords, harmony, and rhythm to become a complete musician.",
+            "price": 89.99,
+            "instructor": "David Miller",
+            "isFeatured": true,
+            "image": "/courses/music-theory.jpg"
+        },
+        {
+            "id": 6,
+            "title": "JU Talks",
+            "slug": "vocal-training-for-beginners",
+            "description": "Improve your singing voice with proper breathing, pitch control, and vocal exercises.",
+            "price": 99.99,
+            "instructor": "Sophia Lee",
+            "isFeatured": true,
+            "image": "/courses/vocal-training.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Inquizzitive",
+            "slug": "digital-music-production",
+            "description": "Learn how to create, mix, and produce music using modern digital tools and DAWs.",
+            "price": 199.99,
+            "instructor": "Ryan Cooper",
+            "isFeatured": true,
+            "image": "/courses/music-production.jpg"
+        },
+        {
+            "id": 8,
+            "title": "24 Frames",
+            "slug": "drums-for-beginners",
+            "description": "Build rhythm, coordination, and basic drumming techniques from scratch.",
+            "price": 109.99,
+            "instructor": "Mark Johnson",
+            "isFeatured": true,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Decisia",
+            "slug": "ukulele-crash-course",
+            "description": "Learn to play popular songs quickly with easy chords and strumming patterns.",
+            "price": 59.99,
+            "instructor": "Hannah Brown",
+            "isFeatured": true,
+            "image": "/courses/ukulele.jpg"
+        }
+    ]
+}
